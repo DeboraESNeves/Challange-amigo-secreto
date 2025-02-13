@@ -1,6 +1,6 @@
 <h1 align="center"> Sorteando um amigo </h1>
 <div align="center">
-  <img src="https://github.com/DeboraESNeves/Challange-amigo-secreto/blob/main/readme-amigo-secreto.png?raw=true" alt="A imagem mostra um grupo de amigos se divertindo">
+  <img src="https://github.com/DeboraESNeves/Challenge-amigo-secreto/blob/main/readme-amigo-secreto.png?raw=true" alt="A imagem mostra um grupo de amigos se divertindo">
 </div>
 Neste projeto é possível criar uma lista de amigos e sortear um deles.
 
@@ -15,11 +15,11 @@ Neste projeto é possível criar uma lista de amigos e sortear um deles.
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/DeboraESNeves/Challange-amigo-secreto.git
+    git clone https://github.com/DeboraESNeves/Challenge-amigo-secreto.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd Challange-amigo-secreto
+    cd Challenge-amigo-secreto
     ```
 3. Abra o arquivo `index.html` no seu navegador.
 
